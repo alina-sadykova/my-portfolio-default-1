@@ -291,7 +291,6 @@ section {
 .about-containers-experience {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
   column-gap: 20px;
   row-gap: 20px;
 }
@@ -344,6 +343,7 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin-top: 5%;
 }
 
 .article-container {
